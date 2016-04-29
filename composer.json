@@ -1,0 +1,27 @@
+{
+  "name": "lsxiao/user-agent-for-laravel5",
+  "description": "a UserAgent parser package for laravel5 which is based on WhichBrowser/Parser",
+  "keywords": [
+    "agent",
+    "useragent",
+    "laravel",
+    "laravel5"
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "whichbrowser/parser": "^2.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Lsxiao\\UserAgent\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lsxiao",
+      "email": "faith.epiphone@gmail.com"
+    }
+  ]
+}
