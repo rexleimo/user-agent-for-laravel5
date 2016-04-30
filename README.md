@@ -30,7 +30,7 @@ Lsxiao\UserAgent\UserAgentServiceProvider::class
 
 ## Usage
 ## basic usage
-the UserAgent is a child instance of WhichBrowser/Parser class,but added some method.
+the UserAgent is a child instance of WhichBrowser/Parser class,but added some methods.
 ```php
 <?php
 // the added functions.
@@ -72,3 +72,7 @@ more usage to see [WhichBrowser/Parser](https://github.com/WhichBrowser/Parser)
 ## License
 
 MIT
+
+## Thanks
+
+####[WhichBrowser/Parser](https://github.com/WhichBrowser/Parser)
